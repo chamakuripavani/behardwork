@@ -7,6 +7,7 @@ public class MakeMotiveYourself
 	{
      System.out.println("all is well");
      System.out.println("adding new line");
+     System.out.println("done");
 	}
 
 }
