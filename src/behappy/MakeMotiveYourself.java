@@ -9,5 +9,9 @@ public class MakeMotiveYourself
      System.out.println("adding new line");
      System.out.println("done");
 	}
+	public void pavani()
+	{
+		System.out.println("this is another line");
+	}
 
 }
